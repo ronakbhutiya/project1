@@ -17,7 +17,7 @@ body {
   display: flex;
 }
 .logo {
-  font-weight: 500;
+  font-weight: 400;
   color: #fff;
   object-fit: cover;
   font-size: 2rem;
