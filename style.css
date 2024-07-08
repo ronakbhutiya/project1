@@ -294,11 +294,12 @@ body {
 
 .about-details-text {
   font-size: 1.2rem;
-  margin-top: 0.7rem;
+  margin-top: 1.5rem;
 }
 .about-details-text span {
   display: block;
   font-size: 1.4rem;
+  margin-bottom: 0.4rem;
   color: #989898;
 }
 .about-details-link {
