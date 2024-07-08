@@ -405,8 +405,9 @@ nav {
 .claims-numbers {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 2rem;
+  gap: 2.5rem;
 }
+
 .claims-box {
   background-color: #fff;
   justify-content: center;
@@ -442,7 +443,7 @@ nav {
 }
 .member-details-1 {
   flex-direction: column;
-  gap: 0.4rem;
+  gap: 0.9rem;
   width: 100%;
 }
 .member-activity {
@@ -596,7 +597,7 @@ nav {
 .members-activity {
   display: grid;
   grid-template-columns: 1fr 0.5fr;
-  gap: 3rem;
+  gap: 2.5rem;
 }
 .cercle-bg-color {
   background-color: #ffa428;
