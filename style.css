@@ -310,7 +310,7 @@ body {
 .deshboard-view {
   background-color: #fefefe;
   margin-left: 2rem;
-  border-left: 1px solid #989898;
+  border-left: 1px solid #e1e1e1;
 }
 .active {
   border-bottom: 2px solid #ffa524 !important;
@@ -420,7 +420,7 @@ nav {
   gap: 2rem;
 }
 .border {
-  border-left: 1px solid #989898;
+  border-left: 1px solid #e1e1e1;
   padding-left: 2rem;
 }
 .claims-header {
