@@ -582,11 +582,11 @@ nav {
 .activity-box::before {
   content: "";
   position: absolute;
-  border-left: 1px solid #e1e1e1;
+  border-left: 0.5px solid #f7f7f7;
   width: 100%;
-  top: 2rem;
+  top: 2.8rem;
   left: 0.5rem;
-  height: 172%;
+  height: 106%;
 }
 .activity-text-box .heading {
   font-size: 1.8rem;
